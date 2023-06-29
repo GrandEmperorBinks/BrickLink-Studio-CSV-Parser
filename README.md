@@ -1,10 +1,10 @@
 # BrickLink-Studio-CSV-Parser  
 
 https://github.com/GrandEmperorBinks/BrickLink-Studio-CSV-Parser/  
-Version: 0.1.3
+Version: 0.2.0
 ***
 Owner: GrandEmperorBinks  
-Contributor: RedTrillix  
+Contributor: redtrillix 
 ***
   
 Bricklink is an international marketplace website for Lego sets, pieces, minifigures, and more.  
