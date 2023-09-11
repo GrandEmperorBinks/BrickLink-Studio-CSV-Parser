@@ -1,3 +1,5 @@
+[![Python Status](https://github.com/GrandEmperorBinks/BrickLink-Studio-CSV-Parser/actions/workflows/python-testing.yml/badge.svg)](https://github.com/GrandEmperorBinks/BrickLink-Studio-CSV-Parser/actions/workflows/python-testing.yml)
+
 # BrickLink-Studio-CSV-Parser  
 
 https://github.com/GrandEmperorBinks/BrickLink-Studio-CSV-Parser/  
