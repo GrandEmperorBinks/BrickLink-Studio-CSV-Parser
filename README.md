@@ -1,10 +1,13 @@
+[![Python Status](https://github.com/GrandEmperorBinks/BrickLink-Studio-CSV-Parser/actions/workflows/python-testing.yml/badge.svg)](https://github.com/GrandEmperorBinks/BrickLink-Studio-CSV-Parser/actions/workflows/python-testing.yml)
+
 # BrickLink-Studio-CSV-Parser  
 
 https://github.com/GrandEmperorBinks/BrickLink-Studio-CSV-Parser/  
 Version: 0.2.0
 ***
-Owner: GrandEmperorBinks  
-Contributor: redtrillix 
+Author: [GrandEmperorBinks](https://github.com/GrandEmperorBinks)
+
+Contributor(s): [redtrillix](https://github.com/redtrillix)
 ***
   
 Bricklink is an international marketplace website for Lego sets, pieces, minifigures, and more.  
