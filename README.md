@@ -2,6 +2,7 @@
 
 https://github.com/GrandEmperorBinks/BrickLink-Studio-CSV-Parser/  
 Version: 0.2.0
+Unfinished
 ***
 Owner: GrandEmperorBinks  
 Contributor: redtrillix 
